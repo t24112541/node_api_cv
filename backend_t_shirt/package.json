@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "node-datetime": "^2.1.2",
+    "router": "^1.3.7"
+  },
+  "name": "backend_t_shirt",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "start": "node ./index.js"
+  },
+  "author": "cv",
+  "license": "ISC"
+}
